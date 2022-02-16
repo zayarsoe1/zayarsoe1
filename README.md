@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zayarsoe1
 - 👀 I’m interested in python and finance 
-- 🌱 I’m currently learning python.
 - 📫 You can reach me by zayarsoe@gmail.com
 
 <!---
